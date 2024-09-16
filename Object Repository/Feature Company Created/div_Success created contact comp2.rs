@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Success created contact comp2</name>
+   <tag></tag>
+   <elementGuidId>9c9d2b38-2150-4989-923c-0c6fd014a819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-widget.k-notification.k-notification-success.k-notification-button._4bd26b63-ff62-4f01-b4a3-df076ca002f6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='apollo-app']/div/div[2]/div/div[2]/div[2]/th-notification-container/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea9c5f03-9f46-4ba2-ac66-0b2e6f346dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-widget k-notification k-notification-success k-notification-button _4bd26b63-ff62-4f01-b4a3-df076ca002f6</value>
+      <webElementGuid>32ad4757-a37c-47c9-9738-58e40696987f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>fec7ba38-0982-47a6-9083-15a376c84057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success: created contact:  comp2</value>
+      <webElementGuid>034ce9d6-bccd-4956-ba23-b56f803e264b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;apollo-app&quot;)/div[@class=&quot;layout-default&quot;]/div[2]/div[@class=&quot;app-wrapper d-flex flex-column top-banner-visible&quot;]/div[@class=&quot;app-body&quot;]/div[@class=&quot;main&quot;]/th-notification-container[1]/div[@class=&quot;k-widget k-notification k-notification-success k-notification-button _4bd26b63-ff62-4f01-b4a3-df076ca002f6&quot;]</value>
+      <webElementGuid>6a50de99-6d32-443f-9f6a-c5d6e9deb15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='apollo-app']/div/div[2]/div/div[2]/div[2]/th-notification-container/div</value>
+      <webElementGuid>fd9e3032-5739-446c-88c2-c2ccdeed7c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/following::div[2]</value>
+      <webElementGuid>8531e957-e03b-4c02-9c98-18ff85a416c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[1]/following::div[3]</value>
+      <webElementGuid>5eebcb15-de87-45da-83b1-e96b32437c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th-notification-container/div</value>
+      <webElementGuid>60b988c0-cc52-4642-a25d-976673ea058a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Success: created contact:  comp2' or . = 'Success: created contact:  comp2')]</value>
+      <webElementGuid>3b719ee0-689c-4603-8ecb-52fc139549b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

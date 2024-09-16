@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__k-multiselect-wrap k-floatwrap</name>
+   <tag></tag>
+   <elementGuidId>6ac903fc-a62e-4698-b159-4c056c66e6c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-multiselect-wrap.k-floatwrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//cc-user-field[@id='matter-subscribers']/div/label/th-multi-select/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf1480e1-9d79-47a5-a7de-9f7fe7225d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-multiselect-wrap k-floatwrap</value>
+      <webElementGuid>7a40fb64-6800-41df-a17a-f2449b434a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>deselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>41758411-03dc-401b-bdf6-c61fc321de99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;matter-subscribers&quot;)/div[@class=&quot;ng-pristine ng-valid ng-valid-required&quot;]/label[@class=&quot;th-label&quot;]/th-multi-select[@class=&quot;ng-pristine ng-valid ng-empty ng-valid-required ng-touched&quot;]/span[@class=&quot;th-multiselect-container&quot;]/div[@class=&quot;k-widget k-multiselect k-header k-multiselect-clearable k-state-hover k-state-focused&quot;]/div[@class=&quot;k-multiselect-wrap k-floatwrap&quot;]</value>
+      <webElementGuid>aa2b5539-12c5-431a-82bb-e3ac46575d22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//cc-user-field[@id='matter-subscribers']/div/label/th-multi-select/span/div/div</value>
+      <webElementGuid>1856c02f-b16c-4bec-9c12-53f2eca0df1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[20]/following::div[2]</value>
+      <webElementGuid>9bc2cd31-d686-417c-89e0-a84817740dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firm user'])[1]/following::div[2]</value>
+      <webElementGuid>f0cd2d84-9d73-435a-b60e-297c9e339816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block users'])[2]/preceding::div[3]</value>
+      <webElementGuid>2fea04e1-c5b0-45b2-b0b7-a8cefe5e3a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose users to block'])[1]/preceding::div[6]</value>
+      <webElementGuid>5ecfcca9-3a3b-4a8f-80bc-9efc07c2899a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>5b3b2e16-93b6-4ba2-9063-9006eb57540c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

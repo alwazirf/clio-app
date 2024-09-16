@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__th-checkbox ng-not-empty ng-valid</name>
+   <tag></tag>
+   <elementGuidId>35dd60c4-ed56-47b4-b25d-dd579c2747ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > label.th-label.th-checkbox-label > span.th-checkbox.ng-not-empty.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='apollo-app']/div/div/div/div/div/div/cc-activities-time-entry-form/th-modal-body/ng-transclude/form/div/span[3]/th-row/th-column[2]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1dffc06-6d0f-4fab-9cc4-d3dcb5d881db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>th-checkbox ng-not-empty ng-valid</value>
+      <webElementGuid>22429b3a-d21a-4af0-bdc8-9d0b3811cd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>[
+    {disabled: checkbox.ngDisabled},
+    {checked: checkbox.checked &amp;&amp; !checkbox.indeterminate},
+    {'is-invalid': checkbox.isInvalid()},
+    {indeterminate: checkbox.indeterminate}
+  ]</value>
+      <webElementGuid>7ac80f61-0b7a-4f11-821e-c7174296db8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>fd43333b-52c0-44f5-acda-4cbdbea6f98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>696b487a-0839-42f5-bea2-31aca6ae92e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>614b11d8-61e1-4292-ad6b-f6fed2ad3b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e</name>
+      <type>Main</type>
+      <value>no-charge-checkbox</value>
+      <webElementGuid>ded2a459-6c49-44a7-9717-9ac60f36b413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>$ctrl.isNoChargeDisabled()</value>
+      <webElementGuid>36560fd3-8c0b-4a6d-958e-e2c39dd1e57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>$ctrl.noCharge</value>
+      <webElementGuid>cc8453f3-5e97-4252-ab12-34ed235e66ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>with-label</name>
+      <type>Main</type>
+      <value>Show this entry on the bill</value>
+      <webElementGuid>499ffb55-6648-4806-855d-219b687bbf8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Show this entry on the bill</value>
+      <webElementGuid>a5f5bb54-23d2-433e-ab48-bad5e8b8dc64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d362cbda-d843-4760-a546-61b7ba0baadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>04adc0b8-430b-4881-9143-8d51cd285eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;apollo-app&quot;)/div[@class=&quot;layout-default&quot;]/div[@class=&quot;th-modal-backdrop visible&quot;]/div[@class=&quot;th-modal-container medium&quot;]/div[@class=&quot;modal-flex-centering&quot;]/div[@class=&quot;th-modal apollo-time-entry-modal medium apollo&quot;]/div[@class=&quot;modal-content&quot;]/cc-activities-time-entry-form[1]/th-modal-body[1]/ng-transclude[1]/form[@class=&quot;modal-form time-entry-form ng-pristine ng-valid ng-valid-required ng-valid-pattern ng-valid-minlength ng-valid-maxlength&quot;]/div[@class=&quot;form-content&quot;]/span[@class=&quot;th-row&quot;]/th-row[@class=&quot;row justify-content-center&quot;]/th-column[@class=&quot;col col-md-6&quot;]/div[@class=&quot;billable-settings&quot;]/div[1]/label[@class=&quot;th-label th-checkbox-label&quot;]/span[@class=&quot;th-checkbox ng-not-empty ng-valid&quot;]</value>
+      <webElementGuid>f8ac7349-4381-4256-b574-0856287c6f74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='apollo-app']/div/div/div/div/div/div/cc-activities-time-entry-form/th-modal-body/ng-transclude/form/div/span[3]/th-row/th-column[2]/div/div/label/span</value>
+      <webElementGuid>6b00eb52-0cce-4a4a-9929-5c2d39a58845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[1]</value>
+      <webElementGuid>e3ea671d-8935-42e7-8d64-2406319822dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-billable'])[1]/following::span[2]</value>
+      <webElementGuid>9112cbc5-2492-4139-8315-92b89d198e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show this entry on the bill'])[1]/preceding::span[1]</value>
+      <webElementGuid>44cbd97b-8dbb-4883-a164-8ead357b4bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::span[2]</value>
+      <webElementGuid>03fb5e56-a298-4106-9d68-4f119de1928b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th-column[2]/div/div/label/span</value>
+      <webElementGuid>ed921fab-f4d5-4323-bde8-5ea7ccc693c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

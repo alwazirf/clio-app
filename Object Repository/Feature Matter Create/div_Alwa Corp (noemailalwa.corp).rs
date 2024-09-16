@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alwa Corp (noemailalwa.corp)</name>
+   <tag></tag>
+   <elementGuidId>c7dc28bc-bb8d-4879-bbc7-8bd4932da629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dc076c06-13d3-42a7-a74a-327ea1613924 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='dc076c06-13d3-42a7-a74a-327ea1613924']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2a9f7d6-3070-4019-8066-34ba3fccd064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alwa Corp (noemail@alwa.corp)</value>
+      <webElementGuid>4a1ca84d-8ea5-4353-849d-f1be9539882d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dc076c06-13d3-42a7-a74a-327ea1613924&quot;)/div[1]</value>
+      <webElementGuid>aefd8912-75ac-4dbc-b5c3-b7b702b67ff4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='dc076c06-13d3-42a7-a74a-327ea1613924']/div</value>
+      <webElementGuid>0abb7115-f317-4dce-8108-3d0493d11542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/following::div[2]</value>
+      <webElementGuid>91b079e3-61d3-41ba-a550-8faa4c2c2cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[3]/following::div[5]</value>
+      <webElementGuid>1e669304-7c44-45ca-a5ce-bff9c61c8ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alwa2corp'])[1]/preceding::div[1]</value>
+      <webElementGuid>7cfeb330-ecbe-4543-abd7-3b1ffb37424e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(noemail@alwa.corp)']/parent::*</value>
+      <webElementGuid>fb0d74e9-d98e-4e55-ae4b-45099869c9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div</value>
+      <webElementGuid>cb15acf5-880d-42a0-8bbc-fb4b0ac07ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alwa Corp (noemail@alwa.corp)' or . = 'Alwa Corp (noemail@alwa.corp)')]</value>
+      <webElementGuid>41d555bd-66a1-4946-91bd-0da2f1aa8420</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>TestData</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Lorem ipsum odor amet, consectetuer adipiscing elit.'</initValue>
+      <name>Lorem</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'VVV Name'</initValue>
+      <name>CompanyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TestAja'</initValue>
+      <name>NameTask</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find a firm user</name>
+   <tag></tag>
+   <elementGuidId>faf27ae4-125d-4cbe-8cbd-24a1acc3016f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-multiselect-wrap.k-floatwrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//cc-user-field[@id='matter-subscribers']/div/label/th-multi-select/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d10f259d-58dd-47a8-b2d6-fb3a2b6289ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-multiselect-wrap k-floatwrap</value>
+      <webElementGuid>8baf014e-855d-4230-9363-fb6673ab8751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>deselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>b89e241b-80fb-493c-8a57-c9ad14f0df9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find a firm user</value>
+      <webElementGuid>c582d646-b38c-4c0f-8130-4efb6610ebef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;matter-subscribers&quot;)/div[@class=&quot;ng-pristine ng-valid ng-valid-required&quot;]/label[@class=&quot;th-label&quot;]/th-multi-select[@class=&quot;ng-pristine ng-valid ng-empty ng-valid-required ng-touched&quot;]/span[@class=&quot;th-multiselect-container&quot;]/div[@class=&quot;k-widget k-multiselect k-header k-multiselect-clearable k-state-hover&quot;]/div[@class=&quot;k-multiselect-wrap k-floatwrap&quot;]</value>
+      <webElementGuid>74cd446a-ac22-4b8a-9368-059f459d5e1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//cc-user-field[@id='matter-subscribers']/div/label/th-multi-select/span/div/div</value>
+      <webElementGuid>9faaa746-eb8e-470d-98cf-12e8dfcf45e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[20]/following::div[2]</value>
+      <webElementGuid>bb3eb2ed-8ec0-48bb-be8e-415eb6b53257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firm user'])[1]/following::div[2]</value>
+      <webElementGuid>3d3ca126-37e1-49b0-ac79-0804ce5da375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block users'])[2]/preceding::div[3]</value>
+      <webElementGuid>747dab58-5b3f-4442-8371-e3fd8d63a0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>55ecf263-06b0-45fe-bac6-ed956a5f67fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Find a firm user' or . = 'Find a firm user')]</value>
+      <webElementGuid>1b7e4dd9-e1a3-494d-a411-34d4aa0943d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

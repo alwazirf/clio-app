@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign out</name>
+   <tag></tag>
+   <elementGuidId>3a410fdb-f310-4207-a337-1b4f0942e595</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='main-navigation']/ul[2]/li[2]/div/div/div[2]/div/div/div[3]/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1bef5fd7-4d39-4377-8672-7fee939e6dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 px-5 no-underline whitespace-nowrap text-[#263238] hover:bg-secondary-hover hover:text-[#263238] active:no-underline</value>
+      <webElementGuid>7534b5c2-1236-4517-8370-27abccc11b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/logout</value>
+      <webElementGuid>0d570d92-b9d2-4739-87ae-f42281809dca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign out</value>
+      <webElementGuid>7692f8c0-bfad-468a-bf9a-dc8ba169153e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-navigation&quot;)/ul[@class=&quot;flex flex-col flex-grow justify-end gap-2 p-3 m-0 list-none&quot;]/li[2]/div[1]/div[@class=&quot;block clio-ui-popover&quot;]/div[@class=&quot;clio-ui-popover-wrapper&quot;]/div[@class=&quot;p-0 clio-ui-popover-body&quot;]/div[@class=&quot;grid grid-cols-1 gap-y-5 w-[272px] divide-solid divide-x-0 divide-y divide-default&quot;]/div[@class=&quot;py-3 flex flex-col&quot;]/a[@class=&quot;py-2 px-5 no-underline whitespace-nowrap text-[#263238] hover:bg-secondary-hover hover:text-[#263238] active:no-underline&quot;]</value>
+      <webElementGuid>742d831f-5af3-4d2b-a2cf-517f79141d2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='main-navigation']/ul[2]/li[2]/div/div/div[2]/div/div/div[3]/a[5]</value>
+      <webElementGuid>fc7dfb0f-f57a-4a5f-9b1e-a0aa5a5191b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign out')]</value>
+      <webElementGuid>93edc8c6-e0d2-49a1-8c0c-173e04f8adce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webinars'])[1]/following::a[1]</value>
+      <webElementGuid>28c9b224-14eb-42d3-987d-bc3a9f3019d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help center'])[1]/following::a[2]</value>
+      <webElementGuid>82fc9ae9-2534-4bff-95f5-34c587431e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::a[1]</value>
+      <webElementGuid>7c263645-04ef-4328-b3ad-021906322094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Dashboard'])[1]/preceding::a[2]</value>
+      <webElementGuid>be357909-d287-487a-a7fc-d61e26e843e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign out']/parent::*</value>
+      <webElementGuid>1aff31d9-1f27-411b-8e2b-b813c36351ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/logout')]</value>
+      <webElementGuid>d2f64d2e-06cb-4fb6-a696-779a5669a959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>d6c83f09-6dd0-4960-abe0-40c95eb47159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/logout' and (text() = 'Sign out' or . = 'Sign out')]</value>
+      <webElementGuid>56a58af6-bb74-46a7-bd5d-d99981664aae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
